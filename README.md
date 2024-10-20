@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **merwanamann@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1afzDZw-ghCYB0eouUOEZwX5PbNgMvsX_/view?usp=drive_link](https://drive.google.com/file/d/1afzDZw-ghCYB0eouUOEZwX5PbNgMvsX_/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xSRnvYQI-tPiX0ovWqxWrsurDkTvlTut/view?usp=drive_link)
 
 - ⚡ Fun fact **I am curious about new things and at the same time, I fear fomo.**
 
