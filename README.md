@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mann Merwana</h1>
-<h3 align="center">A curious web developer exploring diversity of developing and engineering of websites with a keen interest in cybersecurity.</h3>
+<h3 align="center">A curious web developer exploring diversity of developing and engineering of websites. Aspiring Software Developer</h3>
 
 - 🔭 I’m currently working on [Be my guest.](https://github.com/Mann-27)
 
-- 🌱 I’m currently learning **React, Redux Toolkit ,MERN Stack,cybersecurity**
+- 🌱 I’m currently learning **React ,MERN Stack,Cloud**
 
-- 🤝 I’m looking for help with [Flyish Fish Game](https://mann-27.github.io/Flying-Fish-Game/)
+- 🤝 I’m looking for help with all projects.
 
 - 👨‍💻 All of my projects are available at [comming soon!](comming soon!)
 
